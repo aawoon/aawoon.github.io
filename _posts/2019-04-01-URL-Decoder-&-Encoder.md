@@ -4,6 +4,6 @@ titls : URL Decoder/Encoder
 ---
 aaa
 
-source : <input id='src'>
+source : <textarea id='src' style='width: 300px; height: 100px;'></textarea>
 
-result : <input id='dest'>
+result : <textarea id='dest' style='width: 300px; height: 100px;'></textarea>
